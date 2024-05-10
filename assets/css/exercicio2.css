@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.exercicio2 {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+.retangulozao {
+    width: 1440px;
+    height: 135px;
+    background-color: #203788;
+    position: relative;
+    z-index: 2;
+}
+.retangulozinho {
+    width: 330px;
+    height: 63px;
+    z-index: 3;
+    background-color: #B6FFDC;
+    top: 36px;
+    left: 555px;
+    position: relative;
+}
+.bola {
+    width: 180px;
+    height: 180px;
+    background-color: #CF1919;
+    border-radius: 50%;
+    top: 844px;
+    left: 1260px;
+    position: relative;
+}

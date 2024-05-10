@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.exercicio4 {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+.margem1 {
+    width: 1440px;
+    height: 47px;
+    background-color: #000000;
+}
+.margem2 {
+    width: 1440px;
+    height: 47px;
+    background-color: #000000;
+    top: 977px;
+    left: 1px;
+    position: absolute;
+}
+.margem3 {
+    width: 47px;
+    height: 930px;
+    background-color: #000000;
+    position: absolute;
+    top: 47px;
+    left: 1px;
+}
+.margem4 {
+    width: 47px;
+    height: 930px;
+    background-color: #000000;
+    position: absolute;
+    top: 47px;
+    left: 1393px;
+}
+.vermelho {
+    width: 608px;
+    height: 467px;
+    top: 278px;
+    left: 416px;
+    background-color: #EA1111;
+    position: absolute;
+}
+.verde {
+    width: 503px;
+    height: 332px;
+    top: 65px;
+    left: 50px;
+    background-color: #5EFEB1;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bola1 {
+    width: 100px;
+    height: 100px;
+    background-color: #FFA1F0;
+    border-radius: 50%;
+    position: absolute;
+    top: 462px;
+    left: 351px;
+}
+.bola2 {
+    width: 100px;
+    height: 100px;
+    background-color: #A1EEFF;
+    border-radius: 50%;
+    position: absolute;
+    top: 462px;
+    left: 990px;
+}
+.bola3 {
+    width: 100px;
+    height: 100px;
+    background-color: #280E0E;
+    border-radius: 50%;
+    position: absolute;
+    top: 696px;
+    left: 671px;
+}
+.bola4 {
+    width: 100px;
+    height: 100px;
+    background-color: #F7F9A3;
+    border-radius: 50%;
+    position: absolute;
+    top: 228px;
+    left: 670px;
+}
+.bola5 {
+    width: 100px;
+    height: 100px;
+    background-color: #3705FF;
+    border-radius: 50%;
+}

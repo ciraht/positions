@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.exercicio1 {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+.vermelho{
+    width: 720px;
+    height: 538px;
+    background-color: #E33838;
+}
+.azul {
+    background-color: #044AFF;
+    width: 720px;
+    height: 538px;
+    position: relative;
+    left: 50%;
+}

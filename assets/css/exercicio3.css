@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.exercicio3 {
+    width: 1440px;
+    height: 1024px;
+}
+.vermelho {
+    width: 383px;
+    height: 837px;
+    background-color: #B72F2F;
+    position: absolute;
+    z-index: 1;
+    top: 93px;
+    left: 58px ;
+}
+.verde {
+    width: 525px;
+    height: 133px;
+    background-color: #30A150;
+    position: absolute;
+    z-index: 1;
+    left: 915px;
+}
+.azul{
+    width: 410px;
+    height: 329px;
+    background-color: #0F3FE7;
+    position: absolute;
+    z-index: 1;
+    top: 695px;
+    left: 1030px;
+}
+.preto1 {
+    width: 288px;
+    height: 67px;
+    background-color: #280E0E;
+    position: absolute;
+    z-index: 2;
+    top: 826px;
+    left: 105px;
+}
+.preto2 {
+    width: 288px;
+    height: 67px;
+    background-color: #280E0E;
+    position: absolute;
+    z-index: 2;
+    top: 65px;
+    left: 1152px;
+}
+.preto3 {
+    width: 288px;
+    height: 67px;
+    background-color: #280E0E;
+    position: absolute;
+    z-index: 2;
+    top: 709px;
+    left: 1030px;
+}
+.verdeclaro {
+    width: 263px;
+    height: 70px;
+    background-color: #21EC4E;
+    position: absolute;
+    z-index: 2;
+    top: 133px;
+    left: 118px;
+}
